@@ -1,0 +1,32 @@
+/* src/Registration.css */
+.container {
+  max-width: 300px;
+  margin-top: 20px;
+  padding: 40px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  margin-bottom: 20px;
+  color: #343a40;
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.form-control {
+  border-radius: 5px;
+}
+
+.btn-primary {
+  background-color: #4879ae;
+  border-color: #3c71ad;
+  border-radius: 5px;
+}
+.btn-primary:hover {
+  background-color: #cd2a42;
+  border-color: #c10e2c;
+}
